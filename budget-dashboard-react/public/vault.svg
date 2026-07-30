@@ -1,5 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-  <circle cx="32" cy="32" r="30" fill="#0c0a08" stroke="#b08d4f" stroke-width="2"/>
-  <circle cx="32" cy="32" r="23" fill="none" stroke="#b08d4f" stroke-width="1" opacity="0.55"/>
-  <text x="32" y="41" font-family="Georgia, 'Times New Roman', serif" font-size="26" fill="#d8b370" text-anchor="middle">W</text>
-</svg>
